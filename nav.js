@@ -1,1 +1,0 @@
-console.log("Navigation bar added")
